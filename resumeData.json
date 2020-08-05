@@ -2,19 +2,19 @@
   "main": {
     "name":"Susmitha Anandarao",
     "occupation":"Senior Full Stack Engineer",
-    "description":" with over 5 years of professional experience",
+    "description":" with over 7 years of professional experience",
     "image":"profilepic.jpg",
-    "bio":"Backend developer with a Master's degree from The University of Texas at Arlington in Computer Science with over 5 years of experience. Proficiency in Java, C#. Currently exploring Node.js. Looking to expand my leadership skills as I sail through my tech journey.",
+    "bio":"Backend developer with a Master's degree from The University of Texas at Arlington in Computer Science with over 7 years of experience. Seeking to solve complex business challenges. Proficient in Java, C#, Entity Framework, RESTful web services, and Microsoft SQL Server. Currently exploring Node.js. Looking to expand my leadership skills as I sail through my tech journey.",
     "contactmessage":"Feel free to leave your message and I will gt back to you at my earliest.",
     "email": "susmitha.anandarao@gmail.com",
     "phone": "682-240-3085",
     "address":{
-      "street":"3833 Cummins Street",
+      "street":"10300 Katy Fwy",
       "city":"Houston",
       "state":"Texas",
-      "zip": "77027"
+      "zip": "77043"
     },
-    "website": "http://susmitha-anandarao.github.io/",
+    "website": "https://susmitha-anandarao.github.io/me/",
     "resumedownload":"/SusmithaResume.pdf",
     "social":[
       {
@@ -55,13 +55,13 @@
         "company":"ChaiOne Inc",
         "title":"Senior Full Stack Engineer",
         "years":"April 2019 - Present",
-        "description":"Independently producing production-ready code by leveraging the latest .Net best practices. The Latest project includes development of Azure functions using entity framework core with HTTP triggers. Help with continuous integration and deployment using Azure Dev Ops. Platform and technologies used: .Net, Entity framework core. Microsoft Azure services, ADO, REST services, Bitbucket, JIRA, Agile development(Scrum)"
+        "description":"Developed ERP integrated solutions to digitize enterprise process flows such as field user management, e-commerce, supply chain, and logistics. Established project architecture along with Enterprise architects and ensured it meets client governance standards. Delivered intuitive solutions with highly rated System Usability Scores (SUS) by leveraging behavioral scientists and UI/UX design experts. Configured CI/CD deployment pipelines in Microsoft Azure. Mentored and coached peers on projects on design patterns and general best practices. Technology Used: .Net Framework, Entity Framework, Microsoft Azure Services, Azure development operations, REST services, Bitbucket, JIRA, Confluence, Agile development"
       },
       {
         "company":"Cerner Corporation",
         "title":"Associate Senior Software Engineer",
         "years":"January 2016 - April 2019",
-        "description":"Collaborating on component level technical design. Identifying process improvements at team level to support operations and development ecosystem.  Mentoring and training new associates within the team and training programs. Platform and technologies used: C#, Java, SQL, REST, Docker, Jenkins, Git, Jira, Agile development (Scrum and Kanban), Google Guice, Maven, Crucible"
+        "description":"Participated in full development lifecycle including providing input for design, testing, troubleshooting and documenting software solutions. Identified process improvements and system enhancements. Conducted stress and load testing. Mentored in the new hire training program, DevCenter, and coached team members. Platform and technologies used: C#, Java, SQL, REST, Docker, Jenkins, Git, Jira, Agile development (Scrum and Kanban), Google Guice, Maven, Crucible"
       },
       {
         "company":"Broadcom Corporation",
@@ -113,6 +113,10 @@
   },
   "testimonials":{
     "testimonials":[
+      {
+        "text":"Susmitha has been and still is one of my favorite developers to work with. She was not only technically proficient with several development languages, she also excelled at learning new technologies quickly. Combined with her positive attitude and enthusiasm for her work, she was the bedrock of several development teams.",
+        "user":"Adam Hwang"
+      },
       {
         "text":"Susmitha is an extremely talented software engineer and an excellent technical leader wherever she goes. She is a very strong technical leader, both with direct reports and without, and is a positive influencer on any team. Any software engineering organization would benefit from having Susmitha on their team.",
         "user":"Jake Varness"
